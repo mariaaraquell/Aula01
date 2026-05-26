@@ -1,0 +1,11 @@
+1. configurar o Git 
+git config --global user.name "mariaaraquell"
+git config --global user.email "mariaeduardarb.senai@gmail.com"
+
+2. inicializar o git 
+git init
+
+3. criar o repo no githug
+nome do repo: Aula01
+
+
