@@ -13,6 +13,8 @@ nome do repo: Aula01
 5. após as conclusão do desenvolvimento, adicionar os arquivos ao repo:
 git add .
 
+REPETIR OS PASSOS 6 E 7 SEMPRE QUE HOUVER ALTERAÇÃO NOS ARQUIVOS DO PROJETO 
+
 6. comitar ao repositório com uma mensagem explicativa: git commit -m "mensagem entre parênteses"
 
 7. associar o nosso repo local com o remoto 
